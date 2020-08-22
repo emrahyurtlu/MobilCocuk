@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobil Çocuk</string>
+    <string name="placeholder_username">Eposta adresi</string>
+    <string name="placeholder_password">Şifre</string>
+    <string name="btn_login_txt">Giriş Yap</string>
+    <string name="str_forgot_password">Şifremi Unuttum</string>
+    <string name="btn_sign_up_txt">Üye Ol</string>
+    <string name="btn_login_with_google">Google ile Giriş</string>
+    <string name="btn_login_with_facebook">Facebook ile Giriş</string>
+</resources>
