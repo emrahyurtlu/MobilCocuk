@@ -7,4 +7,8 @@
     <string name="btn_sign_up_txt">Üye Ol</string>
     <string name="btn_login_with_google">Google ile Giriş</string>
     <string name="btn_login_with_facebook">Facebook ile Giriş</string>
+
+    <string name="btn_add_new_device_txt">Yeni Ekle</string>
+
+    <string name="fa_heart">&#xf004;</string>
 </resources>
